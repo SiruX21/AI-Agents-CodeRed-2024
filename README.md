@@ -10,3 +10,9 @@ Technologies
 - ChromaDB: Stores and manages embeddings for efficient search and knowledge retrieval within the AI Teacher.
 - OpenAI API: Powers the natural language flight finder, enabling users to find ideal flights using everyday language.
 - Web Interface: Provides a user-friendly interface for interacting with both the AI Teacher and Flight Finder.
+
+  # Set Up
+  - Install Python requirements.txt
+  - AI Teacher and AI Flight both need config.json containing API Keys for Gemini, Amadeus, and OpenAI
+  - Install Node Modules for every React installation
+  - Backend to Frontend communication is handled through POST requests
