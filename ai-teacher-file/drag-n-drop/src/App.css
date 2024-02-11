@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensure the body takes up the full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+.App {
+  text-align: center;
+  padding: 40px;
+}
+
+.dropzone {
+  border: 2px dashed #cccccc;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.dropzone p {
+  margin: 0;
+}
+
+aside {
+  margin-top: 60px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

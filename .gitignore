@@ -1,0 +1,8 @@
+/ai-teacher-backend/__pycache__
+/ai-teacher-backend/config.json
+venv
+/ai-flights-backend/config.json
+/ai-flights-frontend/node_modules
+/ai-teacher-frontend/vite-project/node_modules
+/ai-teacher-voice/vite-project/node_modules
+/ai-teacher-backend/vite-project/node_modules
